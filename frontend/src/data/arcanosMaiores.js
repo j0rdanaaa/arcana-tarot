@@ -1,0 +1,25 @@
+
+export const arcanosMaiores = [
+  { id: 0, nome: 'O Louco', numero: '0', tipo: 'Arcano Maior', significado: 'Novos começos, liberdade e espontaneidade.' },
+  { id: 1, nome: 'O Mago', numero: 'I', tipo: 'Arcano Maior', significado: 'Criatividade, iniciativa e poder de realização.' },
+  { id: 2, nome: 'A Sacerdotisa', numero: 'II', tipo: 'Arcano Maior', significado: 'Intuição, mistério e sabedoria interior.' },
+  { id: 3, nome: 'A Imperatriz', numero: 'III', tipo: 'Arcano Maior', significado: 'Criatividade, abundância e acolhimento.' },
+  { id: 4, nome: 'O Imperador', numero: 'IV', tipo: 'Arcano Maior', significado: 'Estrutura, liderança e estabilidade.' },
+  { id: 5, nome: 'O Hierofante', numero: 'V', tipo: 'Arcano Maior', significado: 'Tradição, aprendizado e valores.' },
+  { id: 6, nome: 'Os Enamorados', numero: 'VI', tipo: 'Arcano Maior', significado: 'Relacionamentos, escolhas e harmonia.' },
+  { id: 7, nome: 'O Carro', numero: 'VII', tipo: 'Arcano Maior', significado: 'Determinação, movimento e conquista.' },
+  { id: 8, nome: 'A Força', numero: 'VIII', tipo: 'Arcano Maior', significado: 'Coragem, paciência e força interior.' },
+  { id: 9, nome: 'O Eremita', numero: 'IX', tipo: 'Arcano Maior', significado: 'Introspecção, prudência e autoconhecimento.' },
+  { id: 10, nome: 'A Roda da Fortuna', numero: 'X', tipo: 'Arcano Maior', significado: 'Mudanças, ciclos e oportunidades.' },
+  { id: 11, nome: 'A Justiça', numero: 'XI', tipo: 'Arcano Maior', significado: 'Equilíbrio, responsabilidade e verdade.' },
+  { id: 12, nome: 'O Enforcado', numero: 'XII', tipo: 'Arcano Maior', significado: 'Pausa, entrega e novas perspectivas.' },
+  { id: 13, nome: 'A Morte', numero: 'XIII', tipo: 'Arcano Maior', significado: 'Transformação, encerramentos e renovação.' },
+  { id: 14, nome: 'A Temperança', numero: 'XIV', tipo: 'Arcano Maior', significado: 'Moderação, paciência e harmonia.' },
+  { id: 15, nome: 'O Diabo', numero: 'XV', tipo: 'Arcano Maior', significado: 'Apegos, desejos e padrões limitantes.' },
+  { id: 16, nome: 'A Torre', numero: 'XVI', tipo: 'Arcano Maior', significado: 'Rupturas, revelações e reconstrução.' },
+  { id: 17, nome: 'A Estrela', numero: 'XVII', tipo: 'Arcano Maior', significado: 'Esperança, inspiração e renovação.' },
+  { id: 18, nome: 'A Lua', numero: 'XVIII', tipo: 'Arcano Maior', significado: 'Intuição, emoções e incertezas.' },
+  { id: 19, nome: 'O Sol', numero: 'XIX', tipo: 'Arcano Maior', significado: 'Alegria, vitalidade e clareza.' },
+  { id: 20, nome: 'O Julgamento', numero: 'XX', tipo: 'Arcano Maior', significado: 'Despertar, avaliação e transformação.' },
+  { id: 21, nome: 'O Mundo', numero: 'XXI', tipo: 'Arcano Maior', significado: 'Conclusão, realização e plenitude.' }
+]
