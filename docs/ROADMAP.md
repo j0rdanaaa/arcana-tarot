@@ -36,10 +36,14 @@ Este documento acompanha a evolução do projeto e será atualizado conforme nov
 
 ## 🃏 Fase 3 — Tiragens interativas
 
-**Status: Planejada**
+**Status: Em desenvolvimento**
 
-- [ ] Criar a funcionalidade Carta do Dia.
-- [ ] Implementar tiragem de uma carta.
+- [x] Criar a funcionalidade Carta do Dia.
+- [x] Implementar sorteio aleatório de cartas.
+- [x] Exibir nome e significado da carta revelada.
+- [x] Salvar a Carta do Dia no localStorage.
+- [x] Manter a carta após atualizar a página.
+- [ ] Implementar tiragem de uma carta independente da Carta do Dia.
 - [ ] Implementar tiragem de três cartas.
 - [ ] Exibir interpretações das tiragens.
 - [ ] Criar animações de revelação das cartas.

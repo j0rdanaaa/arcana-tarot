@@ -51,6 +51,8 @@ O projeto está sendo desenvolvido de forma incremental, começando pela interfa
 - [x] Pesquisa de cartas por nome.
 - [x] Filtros de Arcanos Maiores e Menores.
 - [x] Estrutura inicial de documentação.
+- [x] Carta do Dia com sorteio aleatório.
+- [x] Persistência da Carta do Dia com localStorage.
 
 ### Em desenvolvimento
 
