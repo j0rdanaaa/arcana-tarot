@@ -1,0 +1,76 @@
+.carta-do-dia {
+  padding: 100px 24px;
+  background: radial-gradient(
+    circle at center,
+    #310d1c 0%,
+    #1a151d 55%,
+    #0d0b0f 100%
+  );
+  text-align: center;
+}
+
+.carta-do-dia-conteudo {
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+.carta-do-dia-simbolo {
+  color: #d4a968;
+  font-size: 28px;
+  letter-spacing: 12px;
+}
+
+.carta-do-dia h2 {
+  font-family: 'Cinzel', serif;
+  color: #d4a968;
+  font-size: clamp(28px, 5vw, 42px);
+  margin: 24px 0;
+}
+
+.carta-do-dia p {
+  color: #b9a8ad;
+  line-height: 1.8;
+}
+
+.carta-do-dia button {
+  margin-top: 32px;
+  padding: 16px 32px;
+  border: 1px solid #d4a968;
+  border-radius: 8px;
+  background: #d4a968;
+  color: #0d0b0f;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.carta-do-dia button:hover {
+  background: transparent;
+  color: #d4a968;
+}
+
+.carta-revelada {
+  margin: 40px auto 0;
+  padding: 36px 24px;
+  max-width: 360px;
+  border: 1px solid #d4a968;
+  border-radius: 16px;
+  background: #1a151d;
+}
+
+.carta-revelada span {
+  color: #d4a968;
+  font-family: 'Cinzel', serif;
+  font-size: 24px;
+}
+
+.carta-revelada h3 {
+  margin: 20px 0;
+  font-family: 'Cinzel', serif;
+  color: #f0dfcf;
+  font-size: 26px;
+}
+
+.carta-revelada p {
+  color: #b9a8ad;
+}
